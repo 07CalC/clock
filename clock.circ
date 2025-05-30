@@ -69,6 +69,7 @@
     <comp lib="4" loc="(1260,200)" name="Counter">
       <a name="appearance" val="logisim_evolution"/>
       <a name="max" val="0x5"/>
+      <a name="trigger" val="falling"/>
       <a name="width" val="4"/>
     </comp>
     <comp lib="4" loc="(1600,200)" name="Counter">
@@ -80,6 +81,7 @@
     <comp lib="4" loc="(1990,200)" name="Counter">
       <a name="appearance" val="logisim_evolution"/>
       <a name="max" val="0x2"/>
+      <a name="trigger" val="falling"/>
       <a name="width" val="4"/>
     </comp>
     <comp lib="4" loc="(300,200)" name="Counter">
